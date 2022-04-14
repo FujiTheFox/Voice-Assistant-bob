@@ -4,7 +4,7 @@ Voice Assistant bob is a basic voice assistant that only looks for custom words 
 
 
 
-#Install
+##Install
 You need to have Python 3  3.6 or newer.
 
 1. Download the full project with the model (folder).
