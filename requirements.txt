@@ -1,0 +1,8 @@
+random
+numpy 
+vosk 
+pyaudio
+pyttsx3
+datetime
+os 
+time
